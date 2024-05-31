@@ -174,7 +174,7 @@ selectJoin = Instance.new("TextButton")
 
 -- i hate those people who uses bang cmd on devs 
 devblacklist = {
-	"smegma"
+	"yoMagg0t"
 }
 
 function randomString()
